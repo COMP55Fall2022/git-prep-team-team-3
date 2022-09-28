@@ -1,11 +1,11 @@
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
-
+//this is a comment
 public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
 	public static String FILE_NAME = "robot.png";
-	
+	//comment 2
 	public void init() {
 		setSize(SIZE, SIZE);
 	}
@@ -16,7 +16,8 @@ public class SimplePicture extends GraphicsProgram {
 		GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
 		add(label);
 	}
-	
+	//comment 3
+	//comment 4
 	public static void main(String[] args) {
 		new SimplePicture().start();
 	}
