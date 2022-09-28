@@ -18,6 +18,7 @@ public class SimplePicture extends GraphicsProgram {
 	}
 	//comment 3
 	//comment 4
+	//comment 5
 	public static void main(String[] args) {
 		new SimplePicture().start();
 	}
