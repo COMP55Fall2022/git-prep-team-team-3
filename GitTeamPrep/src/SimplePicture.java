@@ -14,7 +14,7 @@ public class SimplePicture extends GraphicsProgram {
 		GImage robot = new GImage(FILE_NAME, 200, 200);
 		add(robot);
 
-		GLabel label = new GLabel("Hackslash", 200, 400);
+		GLabel label = new GLabel("Hackslash- Leah", 200, 400);
 		
 		add(label);
 	}
