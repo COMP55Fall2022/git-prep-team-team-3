@@ -24,7 +24,7 @@ public class SimplePicture extends GraphicsProgram {
 		Glabel label = new Glabel("Santi", 200,400);
 
 		GLabel label = new GLabel("HELLO ", 200, 400);
- 
+		GLabel label = new GLabel("Bye", 200, 400);
 		
 		add(label);
 	}
