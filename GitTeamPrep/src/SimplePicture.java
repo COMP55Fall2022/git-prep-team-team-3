@@ -15,7 +15,7 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 
 
-		GLabel label = new GLabel("Linh", 200, 400);
+		GLabel label = new GLabel("Linh", 200, 300);
 		
 		Glabel label = new Glabel("Santi", 200,400);
 
