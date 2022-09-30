@@ -4,14 +4,14 @@ import acm.program.GraphicsProgram;
 //this is a comment
 public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
-	public static String FILE_NAME = "robot.png";
+	public static String ROBOT_IMAGE = "robot.png";
 	//comment 2
 	public void init() {
 		setSize(SIZE, SIZE);
 	}
 	
 	public void run() {
-		GImage robot = new GImage(FILE_NAME, 200, 200);
+		GImage robot = new GImage(ROBOT_IMAGE, 200, 200);
 		add(robot);
 
 
