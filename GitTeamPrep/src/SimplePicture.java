@@ -18,6 +18,8 @@ public class SimplePicture extends GraphicsProgram {
 
 
 		GLabel label = new GLabel("SANTI", 200, 100);
+
+		GLabel label = new GLabel("Nuens", 200, 100);
 		
 		Glabel label = new Glabel("Santi", 200,400);
 
