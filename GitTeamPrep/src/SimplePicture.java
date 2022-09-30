@@ -3,6 +3,7 @@ import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
 //this is a comment
 //linh commented
+//comment 2
 public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
 	public static String ROBOT_IMAGE = "robot.png";
