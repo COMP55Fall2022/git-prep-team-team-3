@@ -17,12 +17,19 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 
 
-		GLabel label = new GLabel("Linh", 200, 100);
+		GLabel label = new GLabel("SANTI", 200, 100);
+
+		GLabel label = new GLabel("Nuens", 200, 100);
 		
 		Glabel label = new Glabel("Santi", 200,400);
 
+
 		GLabel label = new GLabel("Hackslash--- Leah", 200, 400);
  
+
+		GLabel label = new GLabel("HELLO ", 200, 400);
+		GLabel label = new GLabel("Bye", 200, 400);
+
 		
 		add(label);
 	}
